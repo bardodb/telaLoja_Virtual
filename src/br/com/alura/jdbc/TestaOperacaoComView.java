@@ -1,6 +1,6 @@
 package br.com.alura.jdbc;
 
-import javax.swing.JFrame;
+import  javax.swing.JFrame;
 
 import br.com.alura.jdbc.view.ProdutoCategoriaFrame;
 
